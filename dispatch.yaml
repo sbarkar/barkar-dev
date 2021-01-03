@@ -1,0 +1,9 @@
+dispatch:
+
+  # Default service serves simple hostname request.
+  - url: "barkar.dev/*"
+    service: default
+
+  # X service serves simple hostname request.
+  - url: "x.barkar.dev/*"
+    service: x
