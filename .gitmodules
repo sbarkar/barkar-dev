@@ -1,0 +1,3 @@
+[submodule "x-barkar-dev"]
+	path = x-barkar-dev
+	url = https://github.com/sbarkar/x-barkar-dev.git
